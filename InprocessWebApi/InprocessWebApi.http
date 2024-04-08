@@ -1,0 +1,6 @@
+@InprocessWebApi_HostAddress = http://localhost:5204
+
+GET {{InprocessWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
